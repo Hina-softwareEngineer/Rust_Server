@@ -22,7 +22,7 @@ fn getRequest()-> Html<String>{
             width: 500px; font-size: 24px; border: 1px solid #9e00c5;' type='number' placeholder='Enter number'
                 name='number' id='number'>
             <input style='font-size: 24px; padding:5px 12px; 
-            border: none; height: 50px;
+            border: none; height: 40px;
             border-radius: 3px;  color: white; background-color: #9e00c5
 
             ;' type='Submit'>
@@ -43,7 +43,7 @@ fn recieveRequest(number : Form<Number>) -> Html<String> {
    {}</p>
    
    </div>
-    ");
+    ", number.number, number.number+2);
     Html(h1)
 }
 
