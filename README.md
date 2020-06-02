@@ -66,7 +66,7 @@ This code is used when post request (submit button is clicked)  is made, the dat
 
 > ### For More Help, go to [Rocket Framework](https://rocket.rs/)
 
-This site is helps a lot in writing your server.
+This site helps a lot in writing your server.
 
 
 ## - Deployment
