@@ -86,7 +86,7 @@ For deployment of Application, I will recommend Heroku CLI
 ```
 sudo snap install --classic heroku
 ```
-3. Verify your installtion using this command.
+3. Verify your installation using this command.
 
 ```
 heroku --version 
