@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT target/release/todo-backend-rocket-rust
+web: ROCKET_PORT=$PORT target/release/rust-rocket01
